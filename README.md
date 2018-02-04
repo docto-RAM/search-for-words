@@ -2,7 +2,9 @@
 This application is to search for words among any files on your PC.
 ***
 ## Requirements
+
 OS Windows XP/7/8.1/10
+
 Microsoft .NET Framework 4.0
 
 ***
