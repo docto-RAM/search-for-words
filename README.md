@@ -1,6 +1,11 @@
 # Search for words
 This application is to search for words among any files on your PC.
 ***
+## Requirements
+OS Windows XP/7/8.1/10
+Microsoft .NET Framework 4.0
+
+***
 ### App during the initial analysis.
 
 ![App during the initial analysis](https://github.com/docto-RAM/search-for-words/blob/master/App%20during%20the%20initial%20analysis.png)
