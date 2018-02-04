@@ -12,7 +12,7 @@ Microsoft .NET Framework 4.0
 
 ![App during the initial analysis](https://github.com/docto-RAM/search-for-words/blob/master/App%20during%20the%20initial%20analysis.png)
 ***
-### App during file processing.
+### App during the file processing.
 
 ![App during file processing](https://github.com/docto-RAM/search-for-words/blob/master/App%20during%20the%20file%20processing.png)
 ***
