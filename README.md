@@ -7,7 +7,7 @@ This application is to search for words among any files on your PC.
 ***
 ### App during file processing.
 ***
-![App during file processing](https://github.com/docto-RAM/search-for-words/blob/master/App%20during%20file%20processing.png)
+![App during file processing](https://github.com/docto-RAM/search-for-words/blob/master/App%20during%20the%20file%20processing.png)
 ***
 ### Folder with result files.
 ***
